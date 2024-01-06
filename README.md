@@ -1,2 +1,3 @@
 # Curso de Python
- Esses projetos nao possui comentario pos foram feito quando eu ainda estava a entra no mundo da programaçõa 
+
+ Esses projetos nâo possui comentario pos foram feito quando eu ainda estava a entra no mundo da programaçõa futuro projetos teram uma melhor organização e uma melhor leitura e compreção
