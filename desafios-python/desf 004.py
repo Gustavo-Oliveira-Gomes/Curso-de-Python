@@ -1,0 +1,11 @@
+tl = input('Digite qualquer coisa:')
+
+print(type(tl))
+print('so tem espaços? ', tl.isspace())
+print('e numerico? ', tl.isnumeric())
+print('e alfabetico? ', tl.isalpha())
+print('e decimal ? ', tl.isdecimal())
+print('e alfanumerica ', tl.isalnum())
+print('esta em maiúsculas ? ', tl.isupper())
+print('esta minúsculas ?', tl.islower())
+print('esta capitaloizada ? ', tl.istitle())

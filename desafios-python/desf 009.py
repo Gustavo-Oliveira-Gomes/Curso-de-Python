@@ -1,0 +1,13 @@
+nr = int(input('Qual e o numero  que sera feita a tabuada :'))
+
+print('{} X {:2} = {}'.format(nr, 0, nr * 0))
+print('{} X {:2} = {}'.format(nr, 1, nr * 1))
+print('{} X {:2} = {}'.format(nr, 2, nr * 2))
+print('{} X {:2} = {}'.format(nr, 3, nr * 3))
+print('{} X {:2} = {}'.format(nr, 4, nr * 4))
+print('{} X {:2} = {}'.format(nr, 5, nr * 5))
+print('{} X {:2} = {}'.format(nr, 6, nr * 6))
+print('{} X {:2} = {}'.format(nr, 7, nr * 7))
+print('{} X {:2} = {}'.format(nr, 8, nr * 8))
+print('{} X {:2} = {}'.format(nr, 9, nr * 9))
+print('{} X {:2} = {}'.format(nr, 10, nr * 10))
